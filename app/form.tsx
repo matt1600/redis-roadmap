@@ -146,7 +146,7 @@ export default function FeatureForm({ features }: { features: Feature[] }) {
           }}
         >
           <input
-            aria-label="Suggest a feature for our roadmap"
+            aria-label="Submit your song for the week"
             className="pl-3 pr-28 py-3 mt-1 text-lg block w-full border border-gray-200 rounded-md text-gray-900 placeholder-gray-400 focus:outline-none focus:ring focus:ring-blue-300"
             maxLength={150}
             placeholder="I want..."
